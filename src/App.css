@@ -21,6 +21,12 @@
 .App-link {
   color: #61dafb;
 }
+.backgroundWave {
+  position: fixed;
+  bottom: -20px;
+  height: 20vh;
+  width: 120vw;
+}
 
 @keyframes App-logo-spin {
   from {
